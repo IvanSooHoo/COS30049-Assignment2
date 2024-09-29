@@ -3,7 +3,7 @@ All dependencies that we used are of the latest versions
 
 Clone the repo into your local machine.
 
-Before Running The data Processing Code and Training the models please change the file paths found in data processing code and the models.ipynb code 
+Before Running The data Processing Code and Training the models please change the file paths found in data processing code and the models.ipynb code. E.G (C:\Users\YourUserhere\OneDrive\Documents\COS30049-Assignment2\dataset\official_clean_data)
 ![image](https://github.com/user-attachments/assets/f883b393-ac68-4c67-ad73-02a307002914)
 
 
