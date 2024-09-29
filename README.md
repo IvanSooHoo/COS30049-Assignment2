@@ -9,6 +9,7 @@ Before Running The data Processing Code and Training the models please change th
 
 
 To run the program and see the final output of the training Click on the run menu on the toolbar at the top and click run all cells.
+
 ![image](https://github.com/user-attachments/assets/2b1c3bee-a478-4591-96ea-c71d1b7de555)
 
 By going to the individual code files you are able to see the outputs provided from the code as well. 
